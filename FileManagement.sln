@@ -17,11 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper_Tests", "DBHelper_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_Tests", "BLL_Tests\BLL_Tests.csproj", "{5C40C39E-7662-4144-BF70-B9CF4B724900}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{4EEDB680-A3C4-481C-92B4-97CC1FCEA81E}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Download\SqliteLinqTest.zip = ..\..\..\..\Download\SqliteLinqTest.zip
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
